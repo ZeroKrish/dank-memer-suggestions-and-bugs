@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: Accept profile option
 labels: enhancement request
 assignees: ''
 
